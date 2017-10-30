@@ -1,0 +1,36 @@
+spec100,"Index(['after', 'almost', 'although', 'an', 'ancient', 'are', 'as', 'at',
+       'balloon', 'be',
+       ...
+       'which', 'whole', 'wholly', 'whose', 'will', 'willett', 'with',
+       'within', 'yet', 'you'],
+      dtype='object', length=116)"
+spec250,"Index(['after', 'almost', 'although', 'ancient', 'are', 'attention', 'been',
+       'began', 'being', 'black',
+       ...
+       'which', 'whole', 'wholly', 'whose', 'will', 'within', 'words', 'would',
+       'yet', 'you'],
+      dtype='object', length=116)"
+spec500,"Index(['after', 'ahead', 'almost', 'although', 'ancient', 'appearance', 'are',
+       'arkham', 'attention', 'began',
+       ...
+       'whole', 'wholly', 'whose', 'will', 'within', 'words', 'would', 'yet',
+       'you', 'your'],
+      dtype='object', length=116)"
+spec1000,"Index(['after', 'ahead', 'almost', 'along', 'although', 'amidst', 'ancient',
+       'appearance', 'are', 'arkham',
+       ...
+       'upon', 'us', 'we', 'where', 'wholly', 'whose', 'will', 'within',
+       'words', 'you'],
+      dtype='object', length=116)"
+spec2000,"Index(['across', 'ahead', 'alien', 'almost', 'along', 'although', 'altogether',
+       'amidst', 'ancient', 'appearance',
+       ...
+       'unknown', 'until', 'us', 'we', 'wholly', 'whose', 'will', 'within',
+       'words', 'you'],
+      dtype='object', length=116)"
+spec3000,"Index(['ahead', 'alien', 'almost', 'along', 'although', 'altogether', 'amid',
+       'amidst', 'ancient', 'appearance',
+       ...
+       'tried', 'truth', 'unknown', 'until', 'us', 'used', 'vicinity',
+       'wholly', 'words', 'your'],
+      dtype='object', length=116)"

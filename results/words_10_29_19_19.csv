@@ -1,0 +1,27 @@
+spec100,"Index(['are', 'by', 'carter', 'did', 'had', 'have', 'he', 'i', 'is', 'it',
+       'me', 'my', 'old', 'on', 'they', 'things', 'this', 'those', 'though',
+       'thus', 'upon', 'was', 'were', 'which'],
+      dtype='object')"
+spec250,"Index(['almost', 'although', 'ancient', 'are', 'carter', 'did', 'had', 'i',
+       'is', 'me', 'my', 'old', 'on', 'should', 'strange', 'they', 'things',
+       'this', 'those', 'though', 'thus', 'upon', 'we', 'will'],
+      dtype='object')"
+spec500,"Index(['almost', 'although', 'ancient', 'curious', 'did', 'has', 'i', 'is',
+       'length', 'me', 'my', 'old', 'on', 'should', 'strange', 'things',
+       'those', 'though', 'thus', 'told', 'upon', 'we', 'whose', 'will'],
+      dtype='object')"
+spec1000,"Index(['almost', 'although', 'ancient', 'curious', 'has', 'idea', 'later',
+       'length', 'manner', 'monstrous', 'my', 'old', 'should', 'strange',
+       'though', 'thus', 'told', 'toward', 'unknown', 'until', 'upon', 'we',
+       'whose', 'will'],
+      dtype='object')"
+spec2000,"Index(['almost', 'although', 'ancient', 'attention', 'character', 'curious',
+       'difficulty', 'idea', 'immediately', 'later', 'length', 'manner',
+       'monstrous', 'outside', 'portion', 'should', 'strange', 'though',
+       'thus', 'told', 'toward', 'unknown', 'until', 'wholly'],
+      dtype='object')"
+spec3000,"Index(['almost', 'although', 'ancient', 'attention', 'began', 'curious',
+       'difficulty', 'idea', 'immediately', 'later', 'manner', 'monstrous',
+       'outside', 'portion', 'queer', 'regard', 'should', 'therefore',
+       'though', 'thus', 'told', 'unknown', 'until', 'wholly'],
+      dtype='object')"

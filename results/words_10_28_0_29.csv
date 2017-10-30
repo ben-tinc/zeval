@@ -1,0 +1,6 @@
+spec100,"Index(['had', 'he', 'i', 'is', 'on', 'upon'], dtype='object')"
+spec250,"Index(['i', 'is', 'old', 'on', 'though', 'upon'], dtype='object')"
+spec500,"Index(['almost', 'is', 'old', 'though', 'thus', 'upon'], dtype='object')"
+spec1000,"Index(['almost', 'although', 'curious', 'should', 'though', 'thus'], dtype='object')"
+spec2000,"Index(['almost', 'although', 'curious', 'should', 'though', 'thus'], dtype='object')"
+spec3000,"Index(['although', 'ancient', 'curious', 'should', 'though', 'thus'], dtype='object')"
